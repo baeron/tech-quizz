@@ -1,0 +1,7 @@
+{
+  "name": "tech-quizz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
