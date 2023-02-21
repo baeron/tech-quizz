@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "tech-quizz",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
