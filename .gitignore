@@ -49,6 +49,7 @@ typings/
 
 # Optional npm cache directory
 .npm
+package-lock.json
 
 # Optional eslint cache
 .eslintcache
@@ -124,7 +125,7 @@ log.txt
 
 # Ionic
 /.ionic
-/www
+hosting
 /platforms
 /plugins
 
@@ -171,3 +172,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+www
